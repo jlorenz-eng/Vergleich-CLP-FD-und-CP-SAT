@@ -61,7 +61,8 @@ Die Ergebnisse zeigen damit vor allem die Bedeutung von **Problemstruktur und So
 ├── NQueens/         # Messdaten und Auswertung zum N-Queens-Problem
 ├── Diagramme/       # Erzeugte Diagramme
 ├── Quellcode/       # Implementierungen der untersuchten Probleme
-└── main.pdf         # Die Seminararbeit als PDF```
+└── main.pdf         # Die Seminararbeit als PDF
+```
 
 Die Benchmarkverzeichnisse enthalten die jeweiligen Messdaten sowie ein Skript `data.py` zur Auswertung und Diagrammerzeugung. Über `performance.py` lassen sich die Benchmarks konfigurieren und ausführen; dabei werden die CLP(FD)- und CP-SAT-Implementierungen aufgerufen und ihre Ausgaben in Textdateien gespeichert.
 
